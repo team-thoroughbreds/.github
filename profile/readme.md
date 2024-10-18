@@ -5,6 +5,6 @@
 - [James McDougall](https://github.com/orgs/team-thoroughbreds/people/jmacdougall-rcn)
 - [John Van Zandt](https://github.com/orgs/team-thoroughbreds/people/jvanzandt-rcn)
 - [Jonathan Havens](https://github.com/orgs/team-thoroughbreds/people/jhavens-rcn)
-- [Mathew Hayford](https://github.com/orgs/team-thoroughbreds/people/mhayford-rcn)
+- [Matthew Hayford](https://github.com/orgs/team-thoroughbreds/people/mhayford-rcn)
 - [Kelvin Nunez](https://github.com/orgs/team-thoroughbreds/people/knunez-rcn)
 - [Obi Ezeonyeka](https://github.com/orgs/team-thoroughbreds/people/oezeonyeka-rcn)
